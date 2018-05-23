@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../docroot/modules/custom/ga_geolocation/src/services/GeolocationService.php - [website]'" />
-    <option name="defaultScopeName" value="File '.../docroot/modules/custom/ga_geolocation/src/services/GeolocationService.php - [website]'" />
-    <option name="SEARCH_SCOPE" value="File '.../docroot/modules/custom/ga_geolocation/src/services/GeolocationService.php - [website]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
