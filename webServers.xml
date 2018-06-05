@@ -4,6 +4,9 @@
       <webServer id="c7784f81-2978-4625-8b04-488100f533ce" name="GA" url="http://local.generalassemb.ly/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7aa57861-4d9b-42b5-a87c-75f50e82a567" name="SAGAFTRA" url="http://local.sagaftra.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
