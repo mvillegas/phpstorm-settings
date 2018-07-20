@@ -7,6 +7,9 @@
       <webServer id="7aa57861-4d9b-42b5-a87c-75f50e82a567" name="SAGAFTRA" url="http://local.sagaftra.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="105ad81c-7f76-47ad-8b87-0670a1f001f1" name="UFC" url="https://ufc.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
