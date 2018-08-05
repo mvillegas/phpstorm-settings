@@ -13,6 +13,9 @@
       <webServer id="80b266e5-1c9c-4155-a62a-763e79ef66a9" name="SAGAWARDS" url="http://local.sagawards.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a4b31ce7-0f25-485a-bc94-4519751b2c23" name="taylor" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
