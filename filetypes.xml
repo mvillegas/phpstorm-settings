@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="GeolocationContext" type="PHP" />
+      <mapping pattern="NaviAuthenticationController.php" type="PHP" />
       <mapping pattern="NaviResource.php" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
