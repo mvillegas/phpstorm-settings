@@ -19,6 +19,9 @@
       <webServer id="4554883c-d031-4877-8316-63f2f3f9a0f4" name="TG" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ff771277-ecee-41b4-b709-571830bd7f19" name="test" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
