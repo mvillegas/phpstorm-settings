@@ -1,28 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Interface.*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*</mask>
-      <mask>*r</mask>
-      <mask>*rou</mask>
-      <mask>*rout</mask>
-      <mask>*routin</mask>
-      <mask>*routing</mask>
-      <mask>*routing.</mask>
       <mask>*routing.y</mask>
       <mask>*routin.yml</mask>
       <mask>*routi.yml</mask>
@@ -36,6 +18,23 @@
       <mask>*services.yml</mask>
       <mask>*rout.yml</mask>
       <mask>*routing.yml</mask>
+      <mask>*i</mask>
+      <mask>*iner</mask>
+      <mask>*ine</mask>
+      <mask>*in</mask>
+      <mask>*int</mask>
+      <mask>*inter</mask>
+      <mask>*interfa</mask>
+      <mask>*interfac</mask>
+      <mask>*interface.php</mask>
+      <mask>*interface.ph</mask>
+      <mask>*interface.p</mask>
+      <mask>*interface.</mask>
+      <mask>*interface</mask>
+      <mask>*nterface</mask>
+      <mask>*Interface</mask>
+      <mask>*Interface.</mask>
+      <mask>*Interface.*</mask>
     </recentFileMasks>
   </component>
 </application>
