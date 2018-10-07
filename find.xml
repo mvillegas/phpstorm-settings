@@ -3,22 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.routing.yml" />
     <recentFileMasks>
-      <mask>*interfac</mask>
-      <mask>*interface.php</mask>
-      <mask>*interface.ph</mask>
-      <mask>*interface.p</mask>
-      <mask>*interface.</mask>
-      <mask>*interface</mask>
-      <mask>*nterface</mask>
-      <mask>*Interface</mask>
-      <mask>*Interface.</mask>
-      <mask>*Interface.*</mask>
-      <mask>*Interfac.*</mask>
-      <mask>*Interfa.*</mask>
-      <mask>*Interf.*</mask>
-      <mask>*Inter.*</mask>
-      <mask>*Inte.*</mask>
       <mask>*Int.*</mask>
       <mask>*I.*</mask>
       <mask>*.*</mask>
@@ -34,6 +20,21 @@
       <mask>*services.y</mask>
       <mask>*services.yml</mask>
       <mask>*.services.yml</mask>
+      <mask>*.service.yml</mask>
+      <mask>*.servic.yml</mask>
+      <mask>*.servi.yml</mask>
+      <mask>*.serv.yml</mask>
+      <mask>*.ser.yml</mask>
+      <mask>*.se.yml</mask>
+      <mask>*.s.yml</mask>
+      <mask>*..yml</mask>
+      <mask>*.r.yml</mask>
+      <mask>*.ro.yml</mask>
+      <mask>*.rou.yml</mask>
+      <mask>*.rout.yml</mask>
+      <mask>*.routi.yml</mask>
+      <mask>*.routin.yml</mask>
+      <mask>*.routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
