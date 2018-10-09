@@ -5,19 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.routing.yml" />
     <recentFileMasks>
-      <mask>*Int.*</mask>
-      <mask>*I.*</mask>
-      <mask>*.*</mask>
-      <mask>*ser.*</mask>
-      <mask>*servces.*</mask>
-      <mask>*servce.*</mask>
-      <mask>*servc.*</mask>
-      <mask>*serv.*</mask>
-      <mask>*servi.*</mask>
-      <mask>*servic.*</mask>
-      <mask>*services.*</mask>
-      <mask>*services.</mask>
-      <mask>*services.y</mask>
       <mask>*services.yml</mask>
       <mask>*.services.yml</mask>
       <mask>*.service.yml</mask>
@@ -34,6 +21,19 @@
       <mask>*.rout.yml</mask>
       <mask>*.routi.yml</mask>
       <mask>*.routin.yml</mask>
+      <mask>ac</mask>
+      <mask>acc</mask>
+      <mask>acces</mask>
+      <mask>access</mask>
+      <mask>n</mask>
+      <mask>g</mask>
+      <mask>*</mask>
+      <mask>.</mask>
+      <mask>*.</mask>
+      <mask>*.rou</mask>
+      <mask>*.rout</mask>
+      <mask>*.routin</mask>
+      <mask>*.routing</mask>
       <mask>*.routing.yml</mask>
     </recentFileMasks>
   </component>
