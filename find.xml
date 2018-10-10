@@ -3,23 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.routing.yml" />
     <recentFileMasks>
-      <mask>*.ser.yml</mask>
-      <mask>*.se.yml</mask>
-      <mask>*.s.yml</mask>
-      <mask>*..yml</mask>
-      <mask>*.r.yml</mask>
-      <mask>*.ro.yml</mask>
-      <mask>*.rou.yml</mask>
-      <mask>*.rout.yml</mask>
-      <mask>*.routi.yml</mask>
-      <mask>*.routin.yml</mask>
-      <mask>ac</mask>
-      <mask>acc</mask>
-      <mask>acces</mask>
-      <mask>access</mask>
-      <mask>n</mask>
-      <mask>g</mask>
       <mask>*</mask>
       <mask>.</mask>
       <mask>*.</mask>
@@ -27,13 +12,29 @@
       <mask>*.rout</mask>
       <mask>*.routin</mask>
       <mask>*.routing</mask>
-      <mask>*.routing.yml</mask>
       <mask>*.yml</mask>
       <mask>*.seryml</mask>
       <mask>*.servicyml</mask>
       <mask>*.serviceyml</mask>
       <mask>*.servicesyml</mask>
       <mask>*.services.yml</mask>
+      <mask>*.service.yml</mask>
+      <mask>*.servic.yml</mask>
+      <mask>*.servi.yml</mask>
+      <mask>*.serv.yml</mask>
+      <mask>*.ser.yml</mask>
+      <mask>*.se.yml</mask>
+      <mask>*.s.yml</mask>
+      <mask>*..yml</mask>
+      <mask>*.ro.yml</mask>
+      <mask>*.rou.yml</mask>
+      <mask>*.routi.yml</mask>
+      <mask>*.routing.yml.yml</mask>
+      <mask>*.routing.ym.yml</mask>
+      <mask>*.routing.y.yml</mask>
+      <mask>*.routing..yml</mask>
+      <mask>*.routin.yml</mask>
+      <mask>*.routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
