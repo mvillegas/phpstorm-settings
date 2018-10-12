@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.routing.yml" />
     <recentFileMasks>
-      <mask>*.routin</mask>
-      <mask>*.routing</mask>
-      <mask>*.yml</mask>
-      <mask>*.seryml</mask>
       <mask>*.servicyml</mask>
       <mask>*.serviceyml</mask>
       <mask>*.servicesyml</mask>
@@ -28,12 +25,16 @@
       <mask>*.routing.y.yml</mask>
       <mask>*.routing..yml</mask>
       <mask>*.routin.yml</mask>
-      <mask>*.routing.yml</mask>
       <mask>*.m</mask>
       <mask>*.mo</mask>
       <mask>*.mod</mask>
       <mask>*.modul</mask>
       <mask>*.module</mask>
+      <mask>*.rout</mask>
+      <mask>*.routin</mask>
+      <mask>*.routing</mask>
+      <mask>*.routing.y</mask>
+      <mask>*.routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
