@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>.</mask>
-      <mask>*.</mask>
-      <mask>*.rou</mask>
-      <mask>*.rout</mask>
       <mask>*.routin</mask>
       <mask>*.routing</mask>
       <mask>*.yml</mask>
@@ -34,6 +29,11 @@
       <mask>*.routing..yml</mask>
       <mask>*.routin.yml</mask>
       <mask>*.routing.yml</mask>
+      <mask>*.m</mask>
+      <mask>*.mo</mask>
+      <mask>*.mod</mask>
+      <mask>*.modul</mask>
+      <mask>*.module</mask>
     </recentFileMasks>
   </component>
 </application>
