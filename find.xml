@@ -3,22 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.module" />
     <recentFileMasks>
-      <mask>*.routing.yml.yml</mask>
-      <mask>*.routing.ym.yml</mask>
-      <mask>*.routing.y.yml</mask>
-      <mask>*.routing..yml</mask>
-      <mask>*.m</mask>
       <mask>*.mo</mask>
       <mask>*.mod</mask>
       <mask>*.modul</mask>
-      <mask>*.module</mask>
       <mask>*.rout</mask>
       <mask>*.routin</mask>
       <mask>*.routing</mask>
       <mask>*.routing.y</mask>
-      <mask>*..yml</mask>
-      <mask>*.service.yml</mask>
       <mask>*.ru.yml</mask>
       <mask>*.r.yml</mask>
       <mask>*.ro.yml</mask>
@@ -27,13 +20,21 @@
       <mask>*.routi.yml</mask>
       <mask>*.routin.yml</mask>
       <mask>*.routing.yml</mask>
-      <mask>*.s.yml</mask>
-      <mask>*.se.yml</mask>
       <mask>*.ser.yml</mask>
       <mask>*.serv.yml</mask>
-      <mask>*.servi.yml</mask>
-      <mask>*.servic.yml</mask>
       <mask>*.services.yml</mask>
+      <mask>*.service.yml</mask>
+      <mask>*.servic.yml</mask>
+      <mask>*.servi.yml</mask>
+      <mask>*.se.yml</mask>
+      <mask>*.s.yml</mask>
+      <mask>*..yml</mask>
+      <mask>*.m.yml</mask>
+      <mask>*.mo.yml</mask>
+      <mask>*.mod.yml</mask>
+      <mask>*.modul.yml</mask>
+      <mask>*.module.yml</mask>
+      <mask>*.module</mask>
     </recentFileMasks>
   </component>
 </application>
