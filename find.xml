@@ -4,24 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.mo</mask>
-      <mask>*.mod</mask>
-      <mask>*.modul</mask>
-      <mask>*.rout</mask>
-      <mask>*.routin</mask>
-      <mask>*.routing</mask>
-      <mask>*.routing.y</mask>
-      <mask>*.ru.yml</mask>
-      <mask>*.r.yml</mask>
-      <mask>*.ro.yml</mask>
-      <mask>*.rou.yml</mask>
-      <mask>*.rout.yml</mask>
-      <mask>*.routi.yml</mask>
-      <mask>*.routin.yml</mask>
-      <mask>*.routing.yml</mask>
-      <mask>*.ser.yml</mask>
-      <mask>*.serv.yml</mask>
-      <mask>*.services.yml</mask>
       <mask>*.service.yml</mask>
       <mask>*.servic.yml</mask>
       <mask>*.servi.yml</mask>
@@ -34,6 +16,24 @@
       <mask>*.modul.yml</mask>
       <mask>*.module.yml</mask>
       <mask>*.module</mask>
+      <mask>*.modul</mask>
+      <mask>*.modu</mask>
+      <mask>*.mod</mask>
+      <mask>*.mo</mask>
+      <mask>*.m</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.se</mask>
+      <mask>*.ser</mask>
+      <mask>*.serv</mask>
+      <mask>*.servi</mask>
+      <mask>*.servic</mask>
+      <mask>*.service</mask>
+      <mask>*.services</mask>
+      <mask>*.services.y</mask>
+      <mask>*.services.ym</mask>
+      <mask>*.services.yml</mask>
     </recentFileMasks>
   </component>
 </application>
