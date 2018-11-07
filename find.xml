@@ -3,20 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <recentFileMasks>
-      <mask>*.m.yml</mask>
-      <mask>*.mo.yml</mask>
-      <mask>*.mod.yml</mask>
-      <mask>*.modul.yml</mask>
-      <mask>*.module.yml</mask>
-      <mask>*.module</mask>
-      <mask>*.modul</mask>
-      <mask>*.modu</mask>
       <mask>*.mod</mask>
       <mask>*.mo</mask>
       <mask>*.m</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.se</mask>
       <mask>*.ser</mask>
@@ -34,6 +25,16 @@
       <mask>*.rout.yml</mask>
       <mask>*.routi.yml</mask>
       <mask>*.routing.yml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.tw</mask>
+      <mask>*.html.twi</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
