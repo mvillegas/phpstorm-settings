@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.libraries.yml" />
     <recentFileMasks>
-      <mask>*.mod</mask>
-      <mask>*.mo</mask>
-      <mask>*.m</mask>
-      <mask>*.s</mask>
-      <mask>*.se</mask>
-      <mask>*.ser</mask>
-      <mask>*.serv</mask>
-      <mask>*.servi</mask>
-      <mask>*.servic</mask>
-      <mask>*.service</mask>
-      <mask>*.services</mask>
-      <mask>*.services.y</mask>
-      <mask>*.services.ym</mask>
       <mask>*.services.yml</mask>
       <mask>*.ru.yml</mask>
       <mask>*.r.yml</mask>
@@ -24,8 +12,6 @@
       <mask>*.rout.yml</mask>
       <mask>*.routi.yml</mask>
       <mask>*.routing.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
@@ -34,6 +20,21 @@
       <mask>*.html.tw</mask>
       <mask>*.html.twi</mask>
       <mask>*.html.twig</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.li</mask>
+      <mask>*.lib</mask>
+      <mask>*.libr</mask>
+      <mask>*.libra</mask>
+      <mask>*.librar</mask>
+      <mask>*.librari</mask>
+      <mask>*.librarie</mask>
+      <mask>*.libraries</mask>
+      <mask>*.libraries.</mask>
+      <mask>*.libraries.y</mask>
+      <mask>*.libraries.ym</mask>
+      <mask>*.libraries.yml</mask>
     </recentFileMasks>
   </component>
 </application>
