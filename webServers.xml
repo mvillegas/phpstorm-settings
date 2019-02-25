@@ -22,6 +22,9 @@
       <webServer id="ff771277-ecee-41b4-b709-571830bd7f19" name="test" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="984723f5-eaba-4b68-9a6c-a85a8094710f" name="CoachFusion VM" url="https://local.coachfusion.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
