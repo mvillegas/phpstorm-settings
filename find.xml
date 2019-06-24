@@ -3,37 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.services.yml</mask>
-      <mask>*.ru.yml</mask>
-      <mask>*.r.yml</mask>
-      <mask>*.rou.yml</mask>
-      <mask>*.rout.yml</mask>
-      <mask>*.routi.yml</mask>
-      <mask>*.routing.yml</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>*.html.</mask>
-      <mask>*.html.t</mask>
-      <mask>*.html.tw</mask>
-      <mask>*.html.twi</mask>
-      <mask>*.html.twig</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.li</mask>
-      <mask>*.lib</mask>
-      <mask>*.libr</mask>
-      <mask>*.libra</mask>
-      <mask>*.librar</mask>
-      <mask>*.librari</mask>
-      <mask>*.librarie</mask>
-      <mask>*.libraries</mask>
-      <mask>*.libraries.</mask>
-      <mask>*.libraries.y</mask>
-      <mask>*.libraries.ym</mask>
-      <mask>*.libraries.yml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.js" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
