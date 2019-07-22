@@ -25,6 +25,9 @@
       <webServer id="984723f5-eaba-4b68-9a6c-a85a8094710f" name="CoachFusion VM" url="https://local.coachfusion.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ddb2c95d-e48b-4a4c-96d5-e87ee3ddc6ee" name="qa2" url="https://connect.mdvip.com.qa2.mindgruve.com/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
