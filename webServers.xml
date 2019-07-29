@@ -28,6 +28,9 @@
       <webServer id="ddb2c95d-e48b-4a4c-96d5-e87ee3ddc6ee" name="qa2" url="https://connect.mdvip.com.qa2.mindgruve.com/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="52a11d15-49f2-46d4-9b84-d905f6c0c619" name="mdvip.com sandbox" url="https://mdvip.sandbox.dd:8443">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
