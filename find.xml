@@ -3,37 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.routing.yml</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>*.html.</mask>
-      <mask>*.html.t</mask>
-      <mask>*.html.tw</mask>
-      <mask>*.html.twi</mask>
-      <mask>*.html.twig</mask>
-      <mask>*</mask>
-      <mask>*.libraries.yml</mask>
-      <mask>*.libraries.ym</mask>
-      <mask>*.libraries.y</mask>
-      <mask>*.libraries.</mask>
-      <mask>*.libraries</mask>
-      <mask>*.librarie</mask>
-      <mask>*.librari</mask>
-      <mask>*.librar</mask>
-      <mask>*.libra</mask>
-      <mask>*.libr</mask>
-      <mask>*.lib</mask>
-      <mask>*.li</mask>
-      <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.mo</mask>
-      <mask>*.modl</mask>
-      <mask>*.mod</mask>
-      <mask>*.modu</mask>
-      <mask>*.modul</mask>
-      <mask>*.module</mask>
-    </recentFileMasks>
   </component>
 </application>
