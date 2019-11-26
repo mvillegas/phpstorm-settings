@@ -2,16 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="LegacyWhereParameterRequestSubscriber" type="PHP" />
-      <mapping pattern="GeolocationContext" type="PHP" />
       <mapping pattern="NaviAuthenticationController.php" type="PHP" />
+      <mapping pattern="GeolocationContext" type="PHP" />
       <mapping pattern="NaviResource.php" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern="SetDefaultLocationLink.php" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.*" type="htaccess" />
+      <removed_mapping pattern=".htaccess.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".htaccess.prod" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
