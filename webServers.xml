@@ -34,6 +34,12 @@
       <webServer id="40f82ad4-3d65-4e84-8b44-9239f4eb225c" name="test" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="bd110684-608f-4905-ac58-9aaf3001d9a4" name="BLT Mdvip Server" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="dceb078e-db75-48c2-a946-95d8fd85c497" name="Local Prod" url="https://mdvip.prod.dd:8443">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
