@@ -40,6 +40,9 @@
       <webServer id="dceb078e-db75-48c2-a946-95d8fd85c497" name="Local Prod" url="https://mdvip.prod.dd:8443">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="bdbebbad-c648-4bdc-b923-31b30f865e08" name="Personal sites bundle" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
