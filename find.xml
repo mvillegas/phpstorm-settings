@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.crt" />
+    <option name="FILE_MASK" value="*.key" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +19,6 @@
     <mask>*services.yml</mask>
     <mask>*block.php</mask>
     <mask>*.crt</mask>
+    <mask>*.key</mask>
   </component>
 </application>
