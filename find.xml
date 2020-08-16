@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*services.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,10 +16,12 @@
     <mask>*.php</mask>
     <mask>block.block*</mask>
     <mask>*.yml</mask>
-    <mask>*services.yml</mask>
     <mask>*block.php</mask>
     <mask>*.crt</mask>
     <mask>*.key</mask>
     <mask>*employer*</mask>
+    <mask>*.y ml</mask>
+    <mask>*route.yml</mask>
+    <mask>*services.yml</mask>
   </component>
 </application>
