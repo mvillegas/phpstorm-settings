@@ -24,5 +24,6 @@
     <mask>*services.yml</mask>
     <mask>*.services.yml</mask>
     <mask>*.routing.yml</mask>
+    <mask>*controller.php</mask>
   </component>
 </application>
