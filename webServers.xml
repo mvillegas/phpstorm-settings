@@ -46,6 +46,9 @@
       <webServer id="4cbaa863-f870-4da3-b4c8-2a489edf271b" name="honeymoon wishes 2.0" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c00a2f9d-bd7e-49fe-8a6b-1e7bb0a012b7" name="MDVIPCONNECT" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
