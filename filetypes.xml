@@ -11,14 +11,13 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="DataObjectHandlerBase.php" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DataObjectTypeInterface.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="SetDefaultLocationLink.php" type="PLAIN_TEXT" />
       <mapping pattern="MedfusionQueueProcessCommand" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.*" type="htaccess" />
-      <removed_mapping pattern=".htaccess.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".htaccess.prod" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".htaccess.local" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
