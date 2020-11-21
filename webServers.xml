@@ -31,7 +31,7 @@
       <webServer id="52a11d15-49f2-46d4-9b84-d905f6c0c619" name="mdvip.com sandbox" url="https://mdvip.sandbox.dd:8443">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="40f82ad4-3d65-4e84-8b44-9239f4eb225c" name="test" url="http://localhost">
+      <webServer id="40f82ad4-3d65-4e84-8b44-9239f4eb225c" name="test (1)" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="bd110684-608f-4905-ac58-9aaf3001d9a4" name="BLT Mdvip Server" url="http://localhost">
