@@ -1,6 +1,9 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="7d045caf-aca3-4882-8123-be69a510fb05" name="devconnect" url="https://connect.mdvip.mcdev/">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/vhosts/mdvipconnect/docroot" accessType="MOUNT" />
+      </webServer>
       <webServer id="c7784f81-2978-4625-8b04-488100f533ce" name="GA" url="http://local.generalassemb.ly/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
