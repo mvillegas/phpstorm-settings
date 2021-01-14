@@ -17,6 +17,7 @@
       <mapping pattern="SetDefaultLocationLink.php" type="PLAIN_TEXT" />
       <mapping pattern="MedfusionQueueProcessCommand" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.*" type="htaccess" />
       <removed_mapping pattern=".htaccess.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".htaccess.prod" approved="true" type="PLAIN_TEXT" />
