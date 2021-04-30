@@ -1,31 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.php</mask>
-    <mask>block.block*</mask>
-    <mask>*block.php</mask>
-    <mask>*.crt</mask>
-    <mask>*.key</mask>
-    <mask>*employer*</mask>
-    <mask>*.y ml</mask>
-    <mask>*route.yml</mask>
-    <mask>*services.yml</mask>
-    <mask>*.services.yml</mask>
-    <mask>*.routing.yml</mask>
-    <mask>*controller.php</mask>
-    <mask>*.xml</mask>
-    <mask>*command.php</mask>
-    <mask>*.js</mask>
-    <mask>*.yml</mask>
-    <mask>authenticate.php</mask>
   </component>
 </application>
